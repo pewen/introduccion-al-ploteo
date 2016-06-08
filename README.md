@@ -2,39 +2,39 @@
 # Curso de ploteo con python para ciencias economicas
 ###################################################
 
+### Graficar lineas
 ![Graficos regulares](plot_ex.png)
-Graficar lineas
 
+### scatter plot x vs y
 ![Scatter plot](scatter_ex.png)
-Hacer un scatter plot x vs y
 
+### grafico de barra con rectangulos
 ![Grafico de barra](bar_ex.png)
-Hacer un grafico de barra con rectangulos
 
+### Dibujar las lineas de contorno y llenarlos
 ![Grafico de contorno](contour_ex.png)
-Dibujar las lineas de contorno y llenarlos
 
+### Mostrar una imagen en los ejes
 ![imshow](imshow_ex.png)
-Mostrar una imagen en los ejes
 
+### campo vectorial con flechas
 ![quiver plot](quiver_ex.png)
-Dibujar un campo vectorial con flechas
 
+### grafico de torta de un array
 ![pie chart](pie_ex.png)
-Hacer un grafico de torta de un array
 
+### varios graficos en uno
 ![multiplot](multiplot_ex.png)
-Hacer varios graficos en uno
 
+### Graficos con ejes polares
 ![polar axis](polar_ex.png)
-Graficar lo que sea con ejes polares
 
+### Graficar datos en 2D o 3D
 ![3D plots](plot3d_ex.png)
-Graficar datos en 2D o 3D
 
+### Dibujar cualquier clase de texto (inclusive Latex!)
 ![Text](text_ex.png)
-Dibujar cualquier clase de texto (inclusive Latex!)
 
+### graficos con datos geo-referenciados
 ![Mapas](earthquakes.png)
-Hacer graficos con datos geo-referenciados
 
