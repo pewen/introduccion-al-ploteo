@@ -1,5 +1,5 @@
 ###################################################
-Curso de ploteo con python para ciencias economicas
+# Curso de ploteo con python para ciencias economicas
 ###################################################
 
 ![Graficos regulares](plot_ex.png)
